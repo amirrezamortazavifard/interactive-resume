@@ -8,7 +8,9 @@ A creative and interactive personal resume designed as a desktop environment sim
 
 ### **[View Live Demo 🚀](https://imfard.ir)**
 
-![Project Screenshot](https://github.com/amirrezamortazavifard/interactive-resume/blob/main/demo/Recording%202025-06-27%20032143.mp4)
+[![Project Demo Video](demo-preview.png)](https://github.com/amirrezamortazavifard/interactive-resume/blob/main/demo/Recording%202025-06-27%20032143.mp4)
+
+*(Click the image above to watch the full video demo)*
 
 ---
 
@@ -25,7 +27,7 @@ The entire project is built from the ground up using only **vanilla HTML, CSS, a
 * **Desktop Environment Simulation** with a dynamic, animated "aurora" background.
 * **Interactive Spotlight Effect** that follows the mouse to reveal hidden text.
 * **Two Fully Draggable Terminal Windows** with independent content and styling.
-* **Distinct Theming** for each window to mimic Windows (AI/Dev skills) and Linux (Security skills) environments.
+* **Distinct Theming** for each window, mimicking Windows and Linux environments.
 * A modern, **Windows 11-style Taskbar** with a glassmorphism effect.
 * Functional taskbar icons for social links and **application state management**.
 * Ability to **Minimize and Restore** windows via their title bar buttons or by clicking their corresponding taskbar icons.
@@ -53,8 +55,8 @@ The entire project is built from the ground up using only **vanilla HTML, CSS, a
 No complex setup or installation is required. Simply clone the repository and open the `index.html` file in your browser.
 
 ```bash
-git clone [https://github.com/Amirreza-Mortazavi-Fard/Your-Repository-Name.git](https://github.com/Amirreza-Mortazavi-Fard/Your-Repository-Name.git)
-cd Your-Repository-Name
+git clone [https://github.com/amirrezamortazavifard/interactive-resume.git](https://github.com/amirrezamortazavifard/interactive-resume.git)
+cd interactive-resume
 # Open the index.html file in your browser
 ```
 
