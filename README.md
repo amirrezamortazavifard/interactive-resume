@@ -8,7 +8,7 @@ A creative and interactive personal resume designed as a desktop environment sim
 
 ### **[View Live Demo 🚀](https://imfard.ir)**
 
-![Project Screenshot](screenshot.png)
+![Project Screenshot](https://github.com/amirrezamortazavifard/interactive-resume/blob/main/demo/Recording%202025-06-27%20032143.mp4)
 
 ---
 
