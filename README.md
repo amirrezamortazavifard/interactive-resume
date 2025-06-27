@@ -64,11 +64,11 @@ cd interactive-resume
 
 ## 👤 Creator
 
-**Amirreza Mortazavi Fard**
+**Amirreza Mortazavi Fard (Amir Fard)**
 
-* **GitHub:** [@Amirreza-Mortazavi-Fard](https://github.com/Amirreza-Mortazavi-Fard)
-* **LinkedIn:** [Amirreza Mortazavi Fard](https://www.linkedin.com/in/amirreza-mortazavi-fard-1a1a72260)
-* **Email:** [a.mortazavifard@gmail.com](mailto:a.mortazavifard@gmail.com)
+* **Telegram:** [@ReallyFard](https://www.linkedin.com/in/amir-reza-mortazavi-fard-892874368/)
+* **LinkedIn:** [Amirreza Mortazavi Fard](https://www.linkedin.com/in/amir-reza-mortazavi-fard-892874368/)
+* **Email:** [mortazavi.a.stu@gmu.ac.ir](mailto:mortazavi.a.stu@gmu.ac.ir)
 
 ---
 
