@@ -67,6 +67,7 @@ cd interactive-resume
 **Amirreza Mortazavi Fard (Amir Fard)**
 
 * **Telegram:** [@ReallyFard](https://www.linkedin.com/in/amir-reza-mortazavi-fard-892874368/)
+* **GitHub:** [@amirrezamortazavifard](https://github.com/amirrezamortazavifard)
 * **LinkedIn:** [Amirreza Mortazavi Fard](https://www.linkedin.com/in/amir-reza-mortazavi-fard-892874368/)
 * **Email:** [mortazavi.a.stu@gmu.ac.ir](mailto:mortazavi.a.stu@gmu.ac.ir)
 
